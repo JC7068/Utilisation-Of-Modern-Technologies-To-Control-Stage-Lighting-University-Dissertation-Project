@@ -1,0 +1,912 @@
+[
+    {
+        "Light Number": 1,
+        "DMX Channel": 1,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 1,
+        "DMX Channel": 2,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 1,
+        "DMX Channel": 3,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 2,
+        "DMX Channel": 4,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 2,
+        "DMX Channel": 5,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 2,
+        "DMX Channel": 6,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 3,
+        "DMX Channel": 7,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 3,
+        "DMX Channel": 8,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 3,
+        "DMX Channel": 9,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 4,
+        "DMX Channel": 10,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 4,
+        "DMX Channel": 11,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 4,
+        "DMX Channel": 12,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 5,
+        "DMX Channel": 13,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 5,
+        "DMX Channel": 14,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 5,
+        "DMX Channel": 15,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 6,
+        "DMX Channel": 16,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 6,
+        "DMX Channel": 17,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 6,
+        "DMX Channel": 18,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 7,
+        "DMX Channel": 19,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 7,
+        "DMX Channel": 20,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 7,
+        "DMX Channel": 21,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 8,
+        "DMX Channel": 22,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 8,
+        "DMX Channel": 23,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 8,
+        "DMX Channel": 24,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 9,
+        "DMX Channel": 25,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 9,
+        "DMX Channel": 26,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 9,
+        "DMX Channel": 27,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 10,
+        "DMX Channel": 28,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 10,
+        "DMX Channel": 29,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 10,
+        "DMX Channel": 30,
+        "Light Model": "Chauvet SlimPAR 56 ILS",
+        "Feature": "Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 31,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Master Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 32,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 33,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 34,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 35,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 36,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 37,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 38,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 39,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 40,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 41,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 42,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 43,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 44,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 45,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 46,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 47,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 48,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 49,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 50,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 51,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 52,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 53,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 54,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 55,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 11,
+        "DMX Channel": 56,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Strobe Effect",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 57,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Master Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 58,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 59,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 60,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 61,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 62,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 63,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 64,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 65,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 66,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 67,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 68,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 69,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 70,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 71,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 72,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 73,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 74,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 75,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 76,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 77,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 78,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 79,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Red Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 80,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Green Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 81,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 12,
+        "DMX Channel": 82,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Strobe Effect",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 83,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Master Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 84,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 85,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 86,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 1 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 87,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 88,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 89,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 2 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 90,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 91,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 92,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 3 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 93,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 94,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 95,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 4 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 96,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 97,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 98,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 5 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 99,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 100,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 101,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 6 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 102,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 103,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 104,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 7 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 105,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Red Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 106,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Green Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 107,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Segment 8 Blue Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 13,
+        "DMX Channel": 108,
+        "Light Model": "Chauvet ColorRail IRC",
+        "Feature": "Strobe Effect",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 109,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Pan",
+        "Current Value": 199
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 110,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Pan Fine",
+        "Current Value": 190
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 111,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Tilt",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 112,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Tilt Fine",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 113,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Color",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 114,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Gobo",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 115,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Shutter",
+        "Current Value": 11
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 116,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Master Brightness",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 117,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Pan/Tilt Speed",
+        "Current Value": 128
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 118,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Function",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 14,
+        "DMX Channel": 119,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Dim Mode",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 120,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Pan",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 121,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Pan Fine",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 122,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Tilt",
+        "Current Value": 255
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 123,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Tilt Fine",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 124,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Color",
+        "Current Value": 199
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 125,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Gobo",
+        "Current Value": 190
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 126,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Shutter",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 127,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Master Brightness",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 128,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Pan/Tilt Speed",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 129,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Function",
+        "Current Value": 0
+    },
+    {
+        "Light Number": 15,
+        "DMX Channel": 130,
+        "Light Model": "Beamz Panther 40 LED Spot",
+        "Feature": "Dim Mode",
+        "Current Value": 0
+    }
+]
